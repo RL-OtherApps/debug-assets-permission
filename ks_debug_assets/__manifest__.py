@@ -26,7 +26,7 @@
     'website': "https://www.ksolves.com",
     'category': 'Tools',
     'support': 'sales@ksolves.com',
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/banner.jpg'],
     'version': '1.0.0',
 
     'depends': ['base', 'base_setup'],
